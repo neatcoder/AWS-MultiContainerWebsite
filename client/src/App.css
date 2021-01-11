@@ -1,0 +1,17 @@
+.aligncenter {
+    text-align: center;
+}
+
+.titleZ {
+    font-size: 2em;
+    padding: 2rem;
+    color: white;
+    background-color: #5bc0de;
+}
+
+.companyInfo {
+    font-size: 2em;
+    padding: 1em;
+    color: #5bc0de;
+    font-weight: 300;
+}
